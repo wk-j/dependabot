@@ -2,4 +2,4 @@ version: 1
 update_configs:
   - package_manager: "dotnet"
     directory: "src/"
-    update_scheduler: "live"
+    update_schedule: "live"
