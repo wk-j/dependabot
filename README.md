@@ -1,1 +1,1 @@
-## Dependabovt
+## Dependabot
